@@ -38,4 +38,3 @@ function filterData() {
     // repopulate table with new Data
     populateTable(filteredData);
 }
-
